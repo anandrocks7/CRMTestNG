@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [CRMTest_testng]" parallel="tests">
+  <listeners>
+    <listener class-name="com.crm.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="2" name="CRM DDTest2(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.crm.testCases.TC02_LoginDDT">
+        <methods>
+          <include name="loginDDT" invocation-numbers="0 1 2 3"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.crm.testCases.TC02_LoginDDT -->
+    </classes>
+  </test> <!-- CRM DDTest2(failed) -->
+</suite> <!-- Failed suite [CRMTest_testng] -->

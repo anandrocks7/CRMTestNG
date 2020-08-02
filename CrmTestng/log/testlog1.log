@@ -1,0 +1,275 @@
+2020-03-16 01:20:20,044 [main] INFO CRM - URL is opened
+2020-03-16 01:20:20,898 [main] INFO CRM - Username is entered
+2020-03-16 01:20:21,201 [main] INFO CRM - Password is entered
+2020-03-16 01:30:06,693 [main] INFO CRM - URL is opened
+2020-03-16 01:30:07,334 [main] INFO CRM - Username is entered
+2020-03-16 01:30:07,565 [main] INFO CRM - Password is entered
+2020-03-16 01:32:56,784 [main] INFO CRM - URL is opened
+2020-03-16 01:32:57,199 [main] INFO CRM - Username is entered
+2020-03-16 01:32:57,406 [main] INFO CRM - Password is entered
+2020-03-16 01:33:37,539 [main] INFO CRM - URL is opened
+2020-03-16 01:33:37,936 [main] INFO CRM - Username is entered
+2020-03-16 01:33:38,141 [main] INFO CRM - Password is entered
+2020-03-16 02:02:12,327 [main] INFO CRM - URL is opened
+2020-03-16 02:02:12,738 [main] INFO CRM - Username is entered
+2020-03-16 02:02:13,032 [main] INFO CRM - Password is entered
+2020-03-16 02:04:50,398 [main] INFO CRM - URL is opened
+2020-03-16 02:04:50,856 [main] INFO CRM - Username is entered
+2020-03-16 02:04:51,278 [main] INFO CRM - Password is entered
+2020-03-16 02:04:52,263 [main] INFO CRM - Login failed
+2020-03-16 02:07:17,926 [main] INFO CRM - URL is opened
+2020-03-16 02:07:18,347 [main] INFO CRM - Username is entered
+2020-03-16 02:07:18,547 [main] INFO CRM - Password is entered
+2020-03-16 02:07:22,072 [main] INFO CRM - Login failed
+2020-03-16 02:08:29,461 [main] INFO CRM - URL is opened
+2020-03-16 02:08:29,998 [main] INFO CRM - Username is entered
+2020-03-16 02:08:30,326 [main] INFO CRM - Password is entered
+2020-03-16 02:08:30,500 [main] INFO CRM - Login is successful
+2020-03-21 01:44:20,564 [main] INFO CRM - URL is opened
+2020-03-21 01:44:21,641 [main] INFO CRM - Username is entered
+2020-03-21 01:44:22,419 [main] INFO CRM - Password is entered
+2020-03-21 01:44:22,556 [main] INFO CRM - Login is successful
+2020-03-21 21:19:31,856 [main] INFO CRM - URL is opened
+2020-03-21 21:19:33,101 [main] INFO CRM - Username is entered
+2020-03-21 21:19:33,428 [main] INFO CRM - Password is entered
+2020-03-21 21:19:33,680 [main] INFO CRM - Login is successful
+2020-03-23 13:04:32,611 [main] INFO CRM - URL is opened
+2020-03-29 04:02:43,390 [main] INFO CRM - URL is opened
+2020-03-29 04:02:44,113 [main] INFO CRM - Username is entered
+2020-03-29 04:02:44,637 [main] INFO CRM - Password is entered
+2020-03-29 04:02:44,739 [main] INFO CRM - Login is successful
+2020-03-29 04:02:59,816 [main] INFO CRM - user name provided
+2020-03-29 04:03:00,106 [main] INFO CRM - password provided
+2020-03-29 04:06:22,975 [main] INFO CRM - URL is opened
+2020-03-29 04:06:23,487 [main] INFO CRM - Username is entered
+2020-03-29 04:06:23,721 [main] INFO CRM - Password is entered
+2020-03-29 04:06:23,961 [main] INFO CRM - Login is successful
+2020-03-29 04:06:32,794 [main] INFO CRM - user name provided
+2020-03-29 04:06:33,025 [main] INFO CRM - password provided
+2020-03-29 04:12:14,149 [main] INFO CRM - URL is opened
+2020-03-29 04:12:14,613 [main] INFO CRM - Username is entered
+2020-03-29 04:12:14,845 [main] INFO CRM - Password is entered
+2020-03-29 04:12:15,098 [main] INFO CRM - Login is successful
+2020-03-29 04:12:24,634 [main] INFO CRM - user name provided
+2020-03-29 04:12:24,848 [main] INFO CRM - password provided
+2020-03-29 04:15:25,387 [main] INFO CRM - URL is opened
+2020-03-29 04:15:25,849 [main] INFO CRM - Username is entered
+2020-03-29 04:15:26,052 [main] INFO CRM - Password is entered
+2020-03-29 04:15:26,156 [main] INFO CRM - Login is successful
+2020-03-29 04:15:35,834 [main] INFO CRM - user name provided
+2020-03-29 04:15:36,092 [main] INFO CRM - password provided
+2020-03-29 04:20:08,922 [main] INFO CRM - URL is opened
+2020-03-29 04:20:09,769 [main] INFO CRM - Username is entered
+2020-03-29 04:20:10,156 [main] INFO CRM - Password is entered
+2020-03-29 04:20:10,642 [main] INFO CRM - Login is successful
+2020-03-29 04:20:19,643 [main] INFO CRM - user name provided
+2020-03-29 04:20:20,240 [main] INFO CRM - password provided
+2020-03-29 04:20:20,560 [main] INFO CRM - user name provided
+2020-03-29 04:20:20,708 [main] INFO CRM - password provided
+2020-03-29 17:57:50,012 [main] INFO CRM - URL is opened
+2020-03-29 17:57:50,922 [main] INFO CRM - Username is entered
+2020-03-29 17:57:51,185 [main] INFO CRM - Password is entered
+2020-03-29 17:57:51,723 [main] INFO CRM - Login is successful
+2020-03-29 17:58:06,730 [main] INFO CRM - user name provided
+2020-03-29 17:58:07,038 [main] INFO CRM - password provided
+2020-03-29 17:58:07,563 [main] INFO CRM - user name provided
+2020-03-29 17:58:07,789 [main] INFO CRM - password provided
+2020-03-29 19:01:22,800 [main] INFO CRM - URL is opened
+2020-03-29 19:01:23,345 [main] INFO CRM - Username is entered
+2020-03-29 19:01:23,608 [main] INFO CRM - Password is entered
+2020-03-29 19:01:23,961 [main] INFO CRM - Login is successful
+2020-03-29 19:01:33,430 [main] INFO CRM - user name provided
+2020-03-29 19:01:33,689 [main] INFO CRM - password provided
+2020-03-29 19:11:41,722 [main] INFO CRM - URL is opened
+2020-03-29 19:11:42,292 [main] INFO CRM - Username is entered
+2020-03-29 19:11:42,654 [main] INFO CRM - Password is entered
+2020-03-29 19:11:43,820 [main] INFO CRM - Login failed
+2020-03-29 19:11:52,796 [main] INFO CRM - user name provided
+2020-03-29 19:11:53,050 [main] INFO CRM - password provided
+2020-03-29 19:17:29,120 [main] INFO CRM - URL is opened
+2020-03-29 19:17:29,571 [main] INFO CRM - Username is entered
+2020-03-29 19:17:29,925 [main] INFO CRM - Password is entered
+2020-03-29 19:17:31,122 [main] INFO CRM - Login failed
+2020-03-29 19:17:40,720 [main] INFO CRM - user name provided
+2020-03-29 19:17:41,044 [main] INFO CRM - password provided
+2020-03-29 19:21:41,101 [main] INFO CRM - URL is opened
+2020-03-29 19:21:41,555 [main] INFO CRM - Username is entered
+2020-03-29 19:21:41,794 [main] INFO CRM - Password is entered
+2020-03-29 19:21:55,073 [main] INFO CRM - user name provided
+2020-03-29 19:21:55,356 [main] INFO CRM - password provided
+2020-03-29 19:22:23,156 [main] INFO CRM - user name provided
+2020-03-29 19:22:23,530 [main] INFO CRM - password provided
+2020-03-29 19:26:15,254 [main] INFO CRM - URL is opened
+2020-03-29 19:26:15,663 [main] INFO CRM - Username is entered
+2020-03-29 19:26:15,932 [main] INFO CRM - Password is entered
+2020-03-29 19:26:31,672 [main] INFO CRM - user name provided
+2020-03-29 19:26:31,993 [main] INFO CRM - password provided
+2020-03-29 19:38:17,438 [main] INFO CRM - user name provided
+2020-03-29 19:38:17,676 [main] INFO CRM - password provided
+2020-03-29 19:49:48,714 [main] INFO CRM - user name provided
+2020-03-29 19:49:48,984 [main] INFO CRM - password provided
+2020-03-29 19:49:59,559 [main] INFO CRM - Login passed
+2020-03-29 19:55:36,467 [main] INFO CRM - user name provided
+2020-03-29 19:55:36,727 [main] INFO CRM - password provided
+2020-03-29 19:55:47,272 [main] INFO CRM - Login passed
+2020-03-29 20:03:57,043 [main] INFO CRM - user name provided
+2020-03-29 20:03:57,338 [main] INFO CRM - password provided
+2020-03-29 20:04:07,920 [main] INFO CRM - Login passed
+2020-03-29 20:04:09,390 [main] INFO CRM - user name provided
+2020-03-29 20:04:09,694 [main] INFO CRM - password provided
+2020-03-29 20:04:10,241 [main] WARN CRM - Login failed
+2020-03-29 20:16:17,041 [main] INFO CRM - user name provided
+2020-03-29 20:16:17,319 [main] INFO CRM - password provided
+2020-03-29 20:16:27,925 [main] INFO CRM - Login passed
+2020-03-29 20:16:29,425 [main] INFO CRM - user name provided
+2020-03-29 20:16:29,733 [main] INFO CRM - password provided
+2020-03-29 20:16:30,260 [main] WARN CRM - Login failed
+2020-03-30 02:09:38,660 [main] INFO CRM - user name provided
+2020-03-30 02:09:38,920 [main] INFO CRM - password provided
+2020-03-30 02:09:49,511 [main] INFO CRM - Login passed
+2020-03-30 02:09:51,031 [main] INFO CRM - user name provided
+2020-03-30 02:09:51,329 [main] INFO CRM - password provided
+2020-03-30 02:09:51,882 [main] WARN CRM - Login failed
+2020-03-30 02:09:52,035 [main] INFO CRM - user name provided
+2020-03-30 02:09:52,190 [main] INFO CRM - password provided
+2020-03-30 02:09:52,718 [main] WARN CRM - Login failed
+2020-03-30 02:09:52,962 [main] INFO CRM - user name provided
+2020-03-30 02:09:53,145 [main] INFO CRM - password provided
+2020-03-30 02:09:53,600 [main] WARN CRM - Login failed
+2020-06-11 12:39:18,481 [main] INFO CRM - user name provided
+2020-06-11 12:39:18,798 [main] INFO CRM - password provided
+2020-06-11 12:39:29,466 [main] INFO CRM - Login passed
+2020-06-11 12:39:30,919 [main] INFO CRM - user name provided
+2020-06-11 12:39:31,327 [main] INFO CRM - password provided
+2020-06-11 12:39:32,652 [main] WARN CRM - Login failed
+2020-06-11 12:39:32,829 [main] INFO CRM - user name provided
+2020-06-11 12:39:33,018 [main] INFO CRM - password provided
+2020-06-11 12:39:33,539 [main] WARN CRM - Login failed
+2020-06-11 12:39:33,739 [main] INFO CRM - user name provided
+2020-06-11 12:39:33,931 [main] INFO CRM - password provided
+2020-06-11 12:39:34,449 [main] WARN CRM - Login failed
+2020-06-11 12:40:51,543 [main] INFO CRM - user name provided
+2020-06-11 12:40:51,806 [main] INFO CRM - password provided
+2020-06-11 12:41:02,350 [main] INFO CRM - Login passed
+2020-06-11 12:41:04,030 [main] INFO CRM - user name provided
+2020-06-11 12:41:04,271 [main] INFO CRM - password provided
+2020-06-11 12:41:04,888 [main] WARN CRM - Login failed
+2020-06-11 12:41:05,131 [main] INFO CRM - user name provided
+2020-06-11 12:41:05,325 [main] INFO CRM - password provided
+2020-06-11 12:41:05,816 [main] WARN CRM - Login failed
+2020-06-11 13:02:38,447 [main] INFO CRM - URL is opened
+2020-06-11 13:02:39,014 [main] INFO CRM - Username is entered
+2020-06-11 13:02:39,473 [main] INFO CRM - Password is entered
+2020-06-11 13:02:44,251 [main] INFO CRM - Login is successful
+2020-06-11 13:02:56,866 [main] INFO CRM - user name provided
+2020-06-11 13:02:57,149 [main] INFO CRM - password provided
+2020-06-11 13:03:07,701 [main] INFO CRM - Login passed
+2020-06-11 13:03:09,182 [main] INFO CRM - user name provided
+2020-06-11 13:03:09,547 [main] INFO CRM - password provided
+2020-06-11 13:03:10,145 [main] WARN CRM - Login failed
+2020-06-11 13:03:10,344 [main] INFO CRM - user name provided
+2020-06-11 13:03:10,568 [main] INFO CRM - password provided
+2020-06-11 13:03:11,061 [main] WARN CRM - Login failed
+2020-06-11 13:03:11,247 [main] INFO CRM - user name provided
+2020-06-11 13:03:11,397 [main] INFO CRM - password provided
+2020-06-11 13:03:11,901 [main] WARN CRM - Login failed
+2020-06-11 13:06:05,624 [main] INFO CRM - URL is opened
+2020-06-11 13:06:06,381 [main] INFO CRM - Username is entered
+2020-06-11 13:06:07,239 [main] INFO CRM - Password is entered
+2020-06-11 13:06:11,397 [main] INFO CRM - Login is successful
+2020-06-11 13:06:25,190 [main] INFO CRM - user name provided
+2020-06-11 13:06:25,480 [main] INFO CRM - password provided
+2020-06-11 13:06:36,061 [main] INFO CRM - Login passed
+2020-06-11 13:06:37,561 [main] INFO CRM - user name provided
+2020-06-11 13:06:37,908 [main] INFO CRM - password provided
+2020-06-11 13:06:38,429 [main] WARN CRM - Login failed
+2020-06-11 13:06:38,638 [main] INFO CRM - user name provided
+2020-06-11 13:06:38,853 [main] INFO CRM - password provided
+2020-06-11 13:06:39,387 [main] WARN CRM - Login failed
+2020-06-11 13:06:39,591 [main] INFO CRM - user name provided
+2020-06-11 13:06:39,773 [main] INFO CRM - password provided
+2020-06-11 13:06:40,297 [main] WARN CRM - Login failed
+2020-06-11 13:42:06,049 [TestNG-test=CRM Test1-1] INFO CRM - URL is opened
+2020-06-11 13:42:06,816 [TestNG-test=CRM Test1-1] INFO CRM - Username is entered
+2020-06-11 13:42:07,201 [TestNG-test=CRM Test1-1] INFO CRM - Password is entered
+2020-06-11 13:42:11,913 [TestNG-test=CRM Test1-1] INFO CRM - Login is successful
+2020-06-11 13:42:24,910 [TestNG-test=CRM DDTest2-1] INFO CRM - user name provided
+2020-06-11 13:42:25,188 [TestNG-test=CRM DDTest2-1] INFO CRM - password provided
+2020-06-11 13:42:35,717 [TestNG-test=CRM DDTest2-1] INFO CRM - Login passed
+2020-06-11 13:46:41,027 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-11 13:46:41,441 [TestNG-tests-2] INFO CRM - password provided
+2020-06-11 13:46:52,331 [TestNG-tests-2] INFO CRM - Login passed
+2020-06-11 13:46:54,253 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-11 13:46:54,502 [TestNG-tests-2] INFO CRM - password provided
+2020-06-11 13:46:55,169 [TestNG-tests-2] WARN CRM - Login failed
+2020-06-11 13:46:55,428 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-11 13:46:55,632 [TestNG-tests-2] INFO CRM - password provided
+2020-06-11 13:46:56,165 [TestNG-tests-2] WARN CRM - Login failed
+2020-06-11 13:46:56,410 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-11 13:46:56,629 [TestNG-tests-2] INFO CRM - password provided
+2020-06-11 13:46:57,133 [TestNG-tests-2] WARN CRM - Login failed
+2020-06-11 14:30:24,105 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-11 14:30:24,669 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-11 14:30:25,130 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-11 14:30:29,322 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-11 14:32:26,407 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-11 14:32:28,071 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-11 14:32:28,588 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-11 14:32:33,539 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-11 14:33:36,726 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-11 14:33:37,209 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-11 14:33:37,460 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-11 14:33:41,771 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-11 14:34:22,330 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-11 14:34:24,205 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-11 14:34:24,568 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-11 14:34:24,845 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-11 14:34:25,087 [TestNG-tests-2] INFO CRM - password provided
+2020-06-11 14:34:29,149 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-11 15:55:06,082 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-11 15:55:06,602 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-11 15:55:07,013 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-11 15:55:11,247 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-11 15:55:23,183 [TestNG-tests-1] INFO CRM - user name provided
+2020-06-11 15:55:23,438 [TestNG-tests-1] INFO CRM - password provided
+2020-06-11 15:55:33,973 [TestNG-tests-1] INFO CRM - Login passed
+2020-06-11 15:55:35,464 [TestNG-tests-1] INFO CRM - user name provided
+2020-06-11 15:55:35,809 [TestNG-tests-1] INFO CRM - password provided
+2020-06-11 15:55:36,416 [TestNG-tests-1] WARN CRM - Login failed
+2020-06-11 15:55:36,642 [TestNG-tests-1] INFO CRM - user name provided
+2020-06-11 15:55:36,825 [TestNG-tests-1] INFO CRM - password provided
+2020-06-11 15:55:37,326 [TestNG-tests-1] WARN CRM - Login failed
+2020-06-14 16:40:32,521 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-14 16:40:33,589 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-14 16:40:33,949 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-14 16:40:38,528 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-14 16:44:46,871 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-14 16:44:47,357 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-14 16:44:47,748 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-14 16:44:51,985 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-14 16:45:08,323 [TestNG-tests-1] INFO CRM - user name provided
+2020-06-14 16:45:08,677 [TestNG-tests-1] INFO CRM - password provided
+2020-06-14 16:45:19,715 [TestNG-tests-1] INFO CRM - Login passed
+2020-06-14 16:45:21,944 [TestNG-tests-1] INFO CRM - user name provided
+2020-06-14 16:45:22,306 [TestNG-tests-1] INFO CRM - password provided
+2020-06-14 16:45:22,892 [TestNG-tests-1] WARN CRM - Login failed
+2020-06-14 16:45:23,224 [TestNG-tests-1] INFO CRM - user name provided
+2020-06-14 16:45:23,593 [TestNG-tests-1] INFO CRM - password provided
+2020-06-14 16:45:24,210 [TestNG-tests-1] WARN CRM - Login failed
+2020-06-14 16:46:08,809 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-14 16:46:09,178 [TestNG-tests-2] INFO CRM - password provided
+2020-06-14 16:46:20,142 [TestNG-tests-2] INFO CRM - Login passed
+2020-06-14 16:46:22,332 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-14 16:46:22,695 [TestNG-tests-2] INFO CRM - password provided
+2020-06-14 16:46:23,281 [TestNG-tests-2] WARN CRM - Login failed
+2020-06-14 16:46:23,623 [TestNG-tests-2] INFO CRM - user name provided
+2020-06-14 16:46:24,017 [TestNG-tests-2] INFO CRM - password provided
+2020-06-14 16:46:24,571 [TestNG-tests-2] WARN CRM - Login failed
+2020-06-14 16:47:40,600 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-14 16:47:41,066 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-14 16:47:41,320 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-14 16:47:45,695 [TestNG-tests-1] INFO CRM - Login is successful
+2020-06-14 16:48:32,575 [TestNG-tests-1] INFO CRM - URL is opened
+2020-06-14 16:48:33,753 [TestNG-tests-1] INFO CRM - Username is entered
+2020-06-14 16:48:34,123 [TestNG-tests-1] INFO CRM - Password is entered
+2020-06-14 16:48:38,465 [TestNG-tests-1] INFO CRM - Login is successful
